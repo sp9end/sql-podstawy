@@ -42,6 +42,6 @@ sql-podstawy/
 | 3 | ORDER BY, LIMIT | ✅ |
 | 4 | Funkcje agregujące + aliasy | ✅ |
 | 5 | GROUP BY, HAVING | ✅ |
-| 6 | JOINy | 🔄 w trakcie |
+| 6 | JOINy | ✅ |
 | 7 | Podzapytania i CTE | ⏳ |
 | 8 | Projekt portfolio | ⏳ |
